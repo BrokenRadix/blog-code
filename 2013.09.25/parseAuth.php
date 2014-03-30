@@ -5,6 +5,7 @@
  * Usage: `php parseAuth.php auth.log`
  * Notes: Parse the Linux auth.log for IP addresses which entered
  *      a password for a username, then logged in correctly.
+ * URL: brokenradix.com/2013/09/25/snatching-low-hanging-fruit/
  *****/
 ini_set("auto_detect_line_endings", true);  // Get all line endings
 
